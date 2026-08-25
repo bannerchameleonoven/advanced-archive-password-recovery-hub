@@ -32,4 +32,4 @@ It's aimed at everyday users as much as power users.
 - An internet connection for the first run
 
 ## A note on usage
-> This project is shared as-is. All product names and logos belong to their respective owners.         
+> This project is shared as-is. All product names and logos belong to their respective owners.          
